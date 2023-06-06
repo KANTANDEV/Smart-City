@@ -7,4 +7,5 @@ Réalisation d'une analyse pré-exploratoire des donnes qui a pour objectif d'op
 
 Table des matières : 
 
-![table des matières](https://github.com/KANTANDEV/Smart-City/assets/94462048/a7dbf60b-5f0b-403f-b4db-2f5a5c17c583)
+![table des matières](https://github.com/KANTANDEV/Smart-City/assets/94462048/8b60e465-4abe-4f22-8e1e-19a59b339ea5)
+
