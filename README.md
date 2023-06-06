@@ -1,7 +1,7 @@
 
 # Smart City
 
-Réalisation d'une analyse pré-exploratoire des donnes qui a pour objectif d'optimiser des tournées pour l’entretien des arbres de la ville de Paris.
+Réalisation d'une analyse pré-exploratoire des données qui a pour objectif d'optimiser des tournées pour l’entretien des arbres de la ville de Paris.
 
 ## 
 
